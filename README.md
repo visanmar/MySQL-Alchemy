@@ -36,23 +36,25 @@ pip install mysql-connector
 
 ### Before run
 - Modify the dot env ('.env') file in app root directory (where you clone this repository) and set the MySQL connection URI:
-```cmd
-SQLALCHEMY_DATABASE_URI=mysql+mysqlconnector://[MySQL server]:3306/[database]
-```
+  ```cmd
+  SQLALCHEMY_DATABASE_URI=mysql+mysqlconnector://[MySQL server]:3306/[database]
+  ```
 - Go to VUE app frontend and download dependencies:
-```cmd
-cd alchemy-vue
-npm install -E
-```
+  ```cmd
+  cd alchemy-vue
+  npm install -E
+  ```
 
 ### Run the proyect
 - Make sure your MySQL server is running.
 - Run Python app:
-```cmd
-python ./src/app.py
-```
+  ```cmd
+  python ./src/app.py
+  ```
 - Run VUE frontend app:
-```cmd
-cd alchemy-vue
-npm run server
-```
+  ```cmd
+  cd alchemy-vue
+  npm run server
+  ```
+- In web browser go to (usually) [http://localhost:8080/](http://localhost:8080/)
+
