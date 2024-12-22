@@ -47,8 +47,8 @@ pip install mysql-connector
   ```
 
 ### Run the proyect
-- Make sure your MySQL server is running.
-Inside app root directory (where you clone this repository)
+Make sure your MySQL server is running.
+Inside app root directory (where you clone this repository):
 - Run Python app:
   ```cmd
   python ./src/app.py
