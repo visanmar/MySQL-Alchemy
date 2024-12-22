@@ -17,6 +17,7 @@ Working example using Python Flask with SQLAlchemy, MySQL and VUE frontend.
 
 
 ### Python virtual environment
+Inside app root directory (where you clone this repository):
 ```cmd
 pip install virtualenv
 python -m virtualenv -p python3 env
