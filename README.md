@@ -1,4 +1,4 @@
-# Tasks list using Flask, SQLAlchemy MySQL with VUE frontend in Python.
+# Tasks list using Flask, SQLAlchemy and MySQL in Python. VUE frontend.
 Working example using Python Flask with SQLAlchemy, MySQL and VUE frontend.
 
 ## What does this project use?
