@@ -56,5 +56,5 @@ pip install mysql-connector
   cd alchemy-vue
   npm run server
   ```
-- In web browser go to (usually) [http://localhost:8080/](http://localhost:8080/)
+- In web browser go to (usually): [http://localhost:8080/](http://localhost:8080/)
 
