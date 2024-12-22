@@ -13,7 +13,7 @@ Working example using Python Flask with SQLAlchemy, MySQL and VUE frontend.
 - VUE toastification
 
 
-## Requirements and initialization
+## Requirements,  initialization and start it
 
 
 ### Python virtual environment
