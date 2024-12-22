@@ -37,9 +37,9 @@ pip install mysql-connector
 ### Before run
 - Modify the dot env ('.env') file in app root directory (where you clone this repository) and set the MySQL connection URI:
 ```cmd
-SQLALCHEMY_DATABASE_URI=mysql+mysqlconnector://`#C0C0C0`[MySQL server]`#1f2328`:3306/`#C0C0C0`[database]`#1f2328
+SQLALCHEMY_DATABASE_URI=mysql+mysqlconnector://[MySQL server]:3306/[database]
 ```
-- Go to vue app frontend a download dependencies:
+- Go to VUE app frontend and download dependencies:
 ```cmd
 cd alchemy-vue
 npm install -E
