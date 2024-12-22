@@ -45,7 +45,7 @@ cd alchemy-vue
 npm install -E
 ```
 
-### To run the proyect
+### Run the proyect
 - Make sure your MySQL server is running.
 - Run Python app:
 ```cmd
