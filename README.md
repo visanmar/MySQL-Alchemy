@@ -2,13 +2,13 @@
 Working example using Python Flask with SQLAlchemy, MySQL and VUE frontend.
 
 ## What does this project use?
-- Python
+- Python 3 (used 3.13)
 - Python dotenv
 - Flask
 - Flask SQLAlchemy
 - Flask CORS
 - MySQL Connector
-- VUE
+- VUE 3 (used 3.5)
 - VUE SweetAlert 2
 - VUE toastification
 
