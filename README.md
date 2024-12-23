@@ -36,7 +36,7 @@ pip install mysql-connector
 ```
 
 ### Before run
-- Modify the dot env ('.env') file in app root directory (where you clone this repository) and set the MySQL connection URI:
+- Create the dot env ('.env') file in app root directory (where you clone this repository) and set the MySQL connection URI:
   ```cmd
   SQLALCHEMY_DATABASE_URI=mysql+mysqlconnector://[MySQL server]:3306/[database]
   ```
